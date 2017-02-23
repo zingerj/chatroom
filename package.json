@@ -16,6 +16,8 @@
     "webpack": "^1.12.2"
   },
   "dependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
     "express": "^4.14.0",
     "react": "^0.14.6",
     "react-dom": "^0.14.6",
